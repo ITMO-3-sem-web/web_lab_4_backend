@@ -1,0 +1,6 @@
+
+Стартовая страница:
+путь: http://localhost:3000/auth/users
+
+Главная страница:
+путь: http://localhost:3000/api/points
